@@ -1,6 +1,6 @@
 Unfinished Idea!
 
-This is an idea for a macro-economic strategic risk management plugin for Obsidian Notes using JavaScript and the Obsidian plugin API. A strategic risk management plugin could help users identify, assess, and prioritize risks that could impact their business or organization, and take proactive steps to mitigate those risks.
+This is an idea for a macro-economic strategic risk management plugin for Obsidian Notes using JavaScript and the Obsidian plugin API. A strategic risk management plugin could help users identify, assess, and prioritise risks that could impact their business or organisation, and take proactive steps to mitigate those risks.
 
 Written in JavaScript code this plugin isusing the Obsidian API and the LYT kit.
 
